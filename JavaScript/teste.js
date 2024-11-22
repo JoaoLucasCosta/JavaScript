@@ -1,7 +1,3 @@
- <!-- Aqui é o espaço do JavaScript -->
-    <script>
-        // Seu código vai aqui!
-        
 // Exibindo uma mensagem simples na tela
 alert("Bem-vindo ao mundo do JavaScript!");
 
