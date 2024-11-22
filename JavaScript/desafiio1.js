@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
         let nomeProduto = prompt("Qual o produto desejado?");
         let quantidade = prompt("Qual quantidade?");
         let valorUni = prompt("Valor unitário?")
@@ -14,6 +6,4 @@
         let multiplicação = quantidade * valorUni
         alert(`Você comprou ` + quantidade + ` unidades de `+ nomeProduto + ` por R$ ` + valorUni + ` cada. Totalizando ` + multiplicação);
         console.log(`O valor da compra é R$: ${multiplicação}`);
-    </script>
-</body>
-</html>
+  
