@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-     
-    <script>
-        
 
- // 1. Bem-vindo ao Sistema
  // Pergunta o nome do usuário e exibe uma mensagem de boas-vindas.//
 
  let nome = prompt("Qual é o seu nome?");
@@ -95,8 +83,3 @@ let quantidade = prompt("Quantos sorvetes você quer comprar?");
  let nota = prompt("Digite a nota do aluno:");
  alert(`A nota digitada foi: ${nota}.`);
 
-
-    </script>
-<script src="script.js"></script>
-</body>
-</html>
