@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <script>
-    //1. Verificação de múltiplos números:
+     //1. Verificação de múltiplos números:
     //Peça três números ao usuário. Verifique se todos são positivos e exiba uma mensagem confirmando ou negando isso.
 
         let number1 = prompt("Primeiro número:")
@@ -138,7 +128,3 @@ if (nota >= 0 && nota <= 4) {
 } else {
     console.log("Nota inválida.");
 }
-
-    </script>
-</body>
-</html>
