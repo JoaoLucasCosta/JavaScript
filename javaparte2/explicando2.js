@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
 
     if (condicao1) {
         // Código executado se condicao1 for verdadeira
@@ -17,7 +9,7 @@
         // Código executado se nenhuma condição for verdadeira
         }
     
-    <script>
+
     //EXEMPLO 01:
     let nota = Number(prompt("Digite sua nota (0 a 10):"));
 
@@ -32,6 +24,3 @@
     }
 
 
-    </script>
-</body>
-</html>
